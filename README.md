@@ -1,5 +1,5 @@
 # ThepandemicbehindThePandemic
-Final codes and Discoveries for final project of the course Statistical Learning 2019/2020 at La Sapienza, first Year course in Data Science Master's degree. Group01 (5 people)
+Final codes and Discoveries for final project of the course Statistical Learning 2019/2020 at La Sapienza, first year 2nd semester's course in Data Science Master's degree. Group01 (5 people)
 
 ## NO Data except some little exception are here on the repository for reasons of IP. Anyone interested can send an email to leonardoplacidi@gmail.com
 ![](Screenshot.png)
