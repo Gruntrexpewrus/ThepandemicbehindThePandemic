@@ -22,7 +22,7 @@ Python notebooks for performing sentiment analysis, methods used in it are SVD, 
 `LittleProcessingONRedditDataAndMegathreads.ipynb` Here we just did some formatting on the data because we needed it to later be able to create the train set and plot some analysis of the sentiment by date.
 
 
-## Amazon-review-scrape-master 
+## Amazon-review-scraper-master 
 A library that we borrowen from https://github.com/shreyas707/Amazon-Review-Scraper and modified a little to get the data we wanted about reviews (used to create train data for sentiment analysis) <br>
 
 ## <br>
