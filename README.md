@@ -25,8 +25,6 @@ Python notebooks for performing sentiment analysis, methods used in it are SVD, 
 ## Amazon-review-scraper-master 
 A library that we borrowen from https://github.com/shreyas707/Amazon-Review-Scraper and modified a little to get the data we wanted about reviews (used to create train data for sentiment analysis) <br>
 
-## <br>
-
 
 
 ## article_analysis/
