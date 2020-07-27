@@ -1,5 +1,7 @@
 # ThepandemicbehindThePandemic
 Final codes and Discoveries for final project of the course Statistical Learning 2019/2020 at La Sapienza. Group01
+
+## NO Data except some little exception are here on the repository of reasons of IP. Anyone interested can send an email to leonardoplacidi@gmail.com
 ![](Screenshot.png)
 
 You can see there are different folders each with specific content.<br>
