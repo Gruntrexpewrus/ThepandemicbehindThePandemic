@@ -22,7 +22,7 @@ Python notebooks for performing sentiment analysis, methods used in it are SVD, 
 `LittleProcessingONRedditDataAndMegathreads.ipynb` Here we just did some formatting on the data because we needed it to later be able to create the train set and plot some analysis of the sentiment by date.
 
 ## Topic Modeling
-Python notebook for performing and evaluating Topic Modeling over Reddit data. We used Latent Dirichlet Allocation method for finding a Topic Model over different configurations (different number of topics and with or without removal of comments whose length is below a specific threshold).
+`LDA.ipynb` Python notebook for performing and evaluating Topic Modeling over Reddit data. We used Latent Dirichlet Allocation method for finding a Topic Model over different configurations (different number of topics and with or without removal of comments whose length is below a specific threshold).<br>
 
 
 ## Amazon-review-scraper-master 
