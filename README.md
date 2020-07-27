@@ -1,5 +1,6 @@
 # ThepandemicbehindThePandemic
 Final codes and Discoveries for final project of the course Statistical Learning 2019/2020 at La Sapienza. Group01
+![](Screenshot.png)
 
 You can see there are different folders each with specific content.<br>
 
