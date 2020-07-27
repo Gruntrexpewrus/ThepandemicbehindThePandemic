@@ -9,3 +9,9 @@ Files to collect/analyze data for national and regional developing of Covid spre
 ## RedditDataClassbyHand
 handmade method to create a userfriendly compilation of a train data in which we classified the sentiment of 540 comments by hand. <br>
 
+## SentimentAnalysis
+Python notebooks for performing sentiment analysis, methods used in it are SVD, SVM, Nayve Bayes, BERT model. <br>
+
+## <br>
+
+## <br>
