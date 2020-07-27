@@ -21,6 +21,9 @@ Python notebooks for performing sentiment analysis, methods used in it are SVD, 
 `finalSVD123RedditPolarityMethod1.ipynb` methods used in it are SVD, SVM, Nayve Bayes, BERT model, all to find that BERT is the best model.<br>
 `LittleProcessingONRedditDataAndMegathreads.ipynb` Here we just did some formatting on the data because we needed it to later be able to create the train set and plot some analysis of the sentiment by date.
 
+## Topic Modeling
+Python notebook for performing and evaluating Topic Modeling over Reddit data. We used Latent Dirichlet Allocation method for finding a Topic Model over different configurations (different number of topics and with or without removal of comments whose length is below a specific threshold).
+
 
 ## Amazon-review-scraper-master 
 A library that we borrowen from https://github.com/shreyas707/Amazon-Review-Scraper and modified a little to get the data we wanted about reviews (used to create train data for sentiment analysis) <br>
