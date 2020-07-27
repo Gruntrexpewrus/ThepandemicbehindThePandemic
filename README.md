@@ -6,12 +6,19 @@ You can see there are different folders each with specific content.<br>
 
 ## CovidDataCollection
 Files to collect/analyze data for national and regional developing of Covid spread, data took from https://github.com/pcm-dpc/COVID-19 (La Protezione Civile data).<br>
+`GenerationDsetsRegioniCovid.ipynb` Here we collected the data region by region (24feb-end of jun, but didn't use it all) and added some features.<br>
+`GenerationUniqueDBNazionaleCovid.ipynb` Here we collected the data for all Italy (24feb-end of jun, but used only until end of May period) and added some features.<br>
 
 ## RedditDataCLassbyHand
 handmade method to create a userfriendly compilation of a train data in which we classified the sentiment of 540 comments by hand. <br>
+`DATAREDDITAMANO.ipynb` code to create an interactive way of filling a train data in which we were classifying by hand the sentiment. <br>
+`AMANOREDDIT.csv` Is the actual dataset, only data we uploaded here for IP reasons.
 
 ## SentimentAnalysis
-Python notebooks for performing sentiment analysis, methods used in it are SVD, SVM, Nayve Bayes, BERT model. <br>
+Python notebooks for performing sentiment analysis, methods used in it are SVD, SVM, Nayve Bayes, BERT model.<br>
+`finalSVD123RedditPolarityMethod1.ipynb` methods used in it are SVD, SVM, Nayve Bayes, BERT model, all to find that BERT is the best model.<br>
+`LittleProcessingONRedditDataAndMegathreads.ipynb` Here we just did some formatting on the data because we needed it to later be able to create the train set and plot some analysis of the sentiment by date.
+
 
 ## Amazon-review-scrape-master 
 A library that we borrowen from https://github.com/shreyas707/Amazon-Review-Scraper and modified a little to get the data we wanted about reviews (used to create train data for sentiment analysis) <br>
@@ -20,7 +27,7 @@ A library that we borrowen from https://github.com/shreyas707/Amazon-Review-Scra
 
 
 
-# article_analysis
+## article_analysis
 
 `data/` Your datasets for the analysis go here. 
 
@@ -35,6 +42,6 @@ Included are the plots to see how our method performed.
 
 `Predictions_Without_Timestamp.ipynb` Predictions, same as *Predictions.ipynb* but without considering the date (converted to a timestamp) that is included with the articles. Basically considers only words and their frequencies (Bag of Words).
 
-`Region Analysis` Exploratory analysis aided by the NMF classificator to check news behaviour over time. Data is first explored by region, then by zone (North, Centre, South, Islands).
+`Region Analysis.ipynb` Exploratory analysis aided by the NMF classificator to check news behaviour over time. Data is first explored by region, then by zone (North, Centre, South, Islands).
 
 `plots.zip` The plots we got from our scripts.
