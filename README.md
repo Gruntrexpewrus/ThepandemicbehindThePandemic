@@ -24,7 +24,7 @@ Python notebooks for performing sentiment analysis, methods used in it are SVD, 
 ## Topic Modeling
 `LDA.ipynb` Python notebook for performing and evaluating Topic Modeling over Reddit data. We used Latent Dirichlet Allocation method for finding a Topic Model over different configurations (different number of topics and with or without removal of comments whose length is below a specific threshold).<br>
 
-## Sentiment and Topic analysis
+## reddit_analysis
 `reddit_comments_analysis.ipynb` Python notebook for performing some analysis on the results of topic detection and sentiment models and compare it with the trend of covid positive cases.
 
 
